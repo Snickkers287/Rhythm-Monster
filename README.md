@@ -71,13 +71,13 @@ Performance is measured via:
 ## Screenshots
 
 ### Menu
-![Menu](screenshots/Menu.png)
+![Menu](Screenshots/Menu.png)
 
 ### Gameplay
-![Gameplay](screenshots/Gameplay.png)
+![Gameplay](Screenshots/Gameplay.png)
 
 ### Game Over
-![Game Over](screenshots/Gameover.png)
+![Game Over](Screenshots/Gameover.png)
 
 ---
 
